@@ -8,7 +8,8 @@ FormData is a data convertion programme written using Python Programming Languag
 - JSON to CSV
 - CSV to JSON
 - And more coming soon
-
+## Requirements
+Python 3.x+
 ## Installation
 
 ```sh
